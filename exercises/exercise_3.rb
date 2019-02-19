@@ -10,5 +10,5 @@ puts "----------"
 @store3.destroy
 puts Store.all.count
 
-binding.pry
+
 
